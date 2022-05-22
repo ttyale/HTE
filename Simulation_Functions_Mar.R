@@ -1,5 +1,3 @@
-#source("/Users/tonytong/Dropbox/HTE Variable Sizes/Simulation/Simulation_Functions.R")
-
 #########################################
 # Marginal
 # Sample size mar calculation (t test)
